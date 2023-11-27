@@ -1,6 +1,6 @@
-# Music-Store-Analysis-Using-SQL
+<h1 align = "center"> Music Store Analysis Using SQL</h1>
 
-<p align="center">This project contains SQL queries to analyze the database of a music streaming service. The database consists of tables for customers, invoices, tracks, artists etc.</p>
+<p align="center"> This project contains SQL queries to analyze the database of a music streaming service. The database consists of tables for customers, invoices, tracks, artists etc.</p>
 
 ## Key Tables
 - customer : contains customer information
